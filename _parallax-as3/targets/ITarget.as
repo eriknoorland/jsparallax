@@ -1,0 +1,1 @@
+﻿/** * @package nl.eriknoorland.parallax.targets */package nl.eriknoorland.parallax.targets{	public interface ITarget{		function get x():Number;		function get y():Number;	}}

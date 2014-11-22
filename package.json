@@ -1,0 +1,23 @@
+{
+  "name": "JSParallax",
+  "version": "0.0.0",
+  "main": "dist/JSParallax.min.js",
+  "description": "A Javascript Parallax lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com//JSParallax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-qunit": "~0.3.0"
+  }
+}

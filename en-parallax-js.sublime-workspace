@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"hollands",
+				"hollandsnieuwe"
+			],
+			[
+				"brand",
+				"brand-primary"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"world",
+				"world-of-vodafone"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"_ini",
+				"_initZIndex"
+			],
+			[
+				"_tick",
+				"_tickType"
+			],
+			[
+				"init",
+				"initSkrollr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"vf",
+				"vfWhite"
+			],
+			[
+				"update",
+				"updateScore"
+			],
+			[
+				"game",
+				"gameLoop"
+			],
+			[
+				"remove",
+				"removeEventListener"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eriknoorland/Documents/dev/git/en-parallax-js/src/_intro.js",
+		"/Users/eriknoorland/Documents/dev/git/en-parallax-js/src/_outro.js",
+		"/Users/eriknoorland/Documents/dev/git/en-parallax-js/Gruntfile.js",
+		"/Users/eriknoorland/Documents/dev/git/en-parallax-js/index.html",
+		"/Users/eriknoorland/Documents/dev/git/en-parallax-js/demo/index.html",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/ED75F798-C198-4AA3-8AAF-6CA2A9195EF8/project.xml",
+		"/Users/eriknoorland/Dropbox/dev/actionscript/eriknoorlandAS3Lib/nl/eriknoorland/parallax/ParallaxEngine.as",
+		"/Users/eriknoorland/Dropbox/dev/actionscript/eriknoorlandAS3Lib/nl/eriknoorland/parallax/Axis.as",
+		"/Users/eriknoorland/Dropbox/dev/actionscript/eriknoorlandAS3Lib/nl/eriknoorland/parallax/Behaviour.as",
+		"/Users/eriknoorland/Dropbox/dev/actionscript/eriknoorlandAS3Lib/nl/eriknoorland/parallax/State.as",
+		"/Users/eriknoorland/Dropbox/dev/actionscript/eriknoorlandAS3Lib/nl/eriknoorland/parallax/View.as",
+		"/Users/eriknoorland/Documents/dev/git/deesaster.com/Gruntfile.js",
+		"/Users/eriknoorland/Documents/dev/git/shooteras3/src/Main.as",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/9162BF7D-7AC7-4379-AB5A-95D757F01F33/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/82EC4C8F-B428-48D3-8121-0CF615BED3DF/project.xml",
+		"/Applications/MAMP/htdocs/qlp-scroll/index.html",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/index.html",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/scripts/controllers/main.js",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/styles/todo-app.scss",
+		"/Users/eriknoorland/Documents/dev/git/deesaster.com/src/assets/less/partials/cloud.less",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss",
+		"/Applications/MAMP/htdocs/qelp/wp-content/plugins/types/resources/css/fields-post.css",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/Gruntfile.js",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/styles/todo-item.scss",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/views/about.html",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/views/main.html",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/styles/main.scss",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/styles/todo-list.scss",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/.tmp/styles/main.css",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/scripts/app.js",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/readme.md",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/scripts/controllers/about.js",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/FFE0AF7A-9792-4211-B9E7-F9D93B7FE3EB/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/79B5A72D-D02C-4304-B485-61BAF3F549E7/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/D8910DA4-05EE-4404-AC04-5EDAACF02A67/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/6719C138-D910-411A-BE3A-B0FA6681962F/project.xml",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/app/scripts/main.js",
+		"/Users/eriknoorland/Documents/dev/git/en-todo/en-todo.sublime-project",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/011C887E-D8A5-45AC-95CC-2F0437886BE0/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/F8850260-60E6-400F-BCEA-1A10CCA3BB85/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/9762A61D-CAE2-4A21-8D34-B1C31BD1CFE4/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/7F195400-2A40-44EB-A07D-0FEC0363EC10/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/C049E2D8-8AD7-41AA-9BDF-CD3A6451F596/project.xml",
+		"/Users/eriknoorland/Downloads/310000011 phi-shaver-9000/IAB/libs/nl/chunk/Utils.as",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/BBDD33D3-A41D-42E6-BAC2-5ED73E654EDD/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/FF048574-E7C0-4EEE-A205-18436150FB02/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/92E6FA41-8859-4B73-86ED-128FFFA04798/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/984432E5-6FA3-45EF-8684-6E921E9D859D/project.xml",
+		"/Applications/MAMP/htdocs/qelp/wp-includes/media.php",
+		"/Applications/MAMP/htdocs/qelp/wp-load.php",
+		"/Applications/MAMP/htdocs/qelp/wp-config.php",
+		"/Applications/MAMP/htdocs/qelp/wp-settings.php",
+		"/Users/eriknoorland/Desktop/fase2_300x250_rich-TVC.html",
+		"/Users/eriknoorland/Desktop/f3-en_US-160x600.html",
+		"/Users/eriknoorland/Desktop/test.html",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/9DBBC96A-9D3A-40AD-8B71-32F1D65AA547/project.xml",
+		"/Users/eriknoorland/Documents/dev/test/react-todo/node_modules/bower/node_modules/cardinal/utl.js",
+		"/private/var/folders/7n/jfdkkpqj0cl1zst5cmq8fkr80000gn/T/fz3temp-1/config_inc.php",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/65ACD6C1-7E4D-4DC0-994E-23AA131178CD/project.xml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/interactieve-tv/zenderoverzicht/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/_index.shtml",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/functions.php",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/D6D0C725-8C0F-4063-A2EF-1F40EA01786F/projects.xml",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/page-no-sidebar.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/content-page.php",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/08862773-2C9C-48A9-93FB-23D3AB4BCD36/project.xml",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/content-board-member.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/single.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/sidebar.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/archive-board-members.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/page.php",
+		"/Applications/MAMP/htdocs/qelp/wp-content/themes/qelp/index.php",
+		"/Applications/MAMP/htdocs/projects/project.php",
+		"/Applications/MAMP/htdocs/projects/index.php",
+		"/Applications/MAMP/htdocs/projects/assets/templates/project.php",
+		"/Applications/MAMP/htdocs/projects/assets/templates/footer.phtml",
+		"/Applications/MAMP/htdocs/projects/assets/css/stylesheet.css",
+		"/Applications/MAMP/htdocs/projects/assets/templates/header.phtml",
+		"/Users/eriknoorland/Desktop/project.php",
+		"/Applications/MAMP/htdocs/projects/assets/libs/Flash.php",
+		"/Applications/MAMP/htdocs/projects/assets/libs/Project.php",
+		"/Applications/MAMP/htdocs/projects/assets/templates/projects.php",
+		"/Applications/MAMP/htdocs/projects/assets/libs/Img.php",
+		"/Applications/MAMP/htdocs/projects/assets/libs/Projects.php",
+		"/Applications/MAMP/htdocs/projects/assets/libs/Url.php",
+		"/Applications/MAMP/htdocs/projects/Philips Sonicare/project.xml",
+		"/Users/eriknoorland/Desktop/class.project.php",
+		"/Applications/MAMP/htdocs/projects/Philips SensoTouch/bol.com/index.php",
+		"/Applications/MAMP/htdocs/projects/Philips SensoTouch/index.php",
+		"/Applications/MAMP/htdocs/projects/Philips Sonicare/index.php",
+		"/Applications/MAMP/htdocs/projects/projects.php",
+		"/Applications/MAMP/htdocs/projects/assets/js/search.js",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/js/channel-filter.js",
+		"/Applications/MAMP/htdocs/projects/folder 1/index.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Users/eriknoorland/Desktop/projects.php",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/B083D8DB-CF4F-4F7C-B014-5E50863F7EEB/index.php",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/EE816A86-42C7-4B3C-BEBD-BF7FB37706D6/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/7E36452C-A7A7-4831-80B4-761853833FDE/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/B49D6352-E2E8-43EE-B3E7-F4F326A247A0/project.xml",
+		"/Users/eriknoorland/Downloads/phi-visapure-fase1/v2_visapure_728x90_DE.html",
+		"/Users/eriknoorland/Downloads/phi-visapure-fase1/v2_visapure_160x600_DE.html",
+		"/Users/eriknoorland/Downloads/phi-visapure-fase1/v2_visapure_120x600_DE.html",
+		"/Users/eriknoorland/Downloads/phi-shaver-9000/slider/banner_970x500.html",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/1598EE52-16F7-4C45-B8A3-BE2FEF701960/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/C8B68CDC-C96C-48D9-90C6-6FE5CBD75006/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/C244390B-89EF-4AB3-A862-945A0F4E781B/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/57C883C7-7D96-4A39-BB0C-FAB284C966BB/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/84E5E4D6-7C3D-4131-9C3B-C1B7B523353F/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/371B1E2B-5DA0-4F2A-B8EB-BA0749F92A9C/project.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/11A98B47-9270-4279-8CF1-B1CFA6362E62/project.xml",
+		"/Users/eriknoorland/Documents/dev/git/philips-zero-gravity/src/f3/en_US/728x90-40K.fla",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/B5A9B9AA-124D-428C-9FDC-703C27CAA36B/project.xml",
+		"/Users/eriknoorland/Downloads/mak-verstandvanwijn-redirect/redirect-options.txt",
+		"/Users/eriknoorland/Downloads/phi-ohc/as2-array-shuffle.as",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/tough-cookie/node_modules/punycode/punycode.js",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/internet/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/internet/wifi-modem/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/internet/glasvezel/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/interactieve-tv/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/hou-me-op-de-hoogte/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/bellen/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/bellen/beltarieven/index.shtml",
+		"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/alles-in-1/index.shtml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/0FFDBB1D-4776-40D9-8FC5-DB1923CB8C99/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/34CC2F43-6A80-4D00-A530-956EC5A81A8B/projects.xml",
+		"/Users/eriknoorland/Library/Caches/Cleanup At Startup/Transmit/31019D4A-70FA-4AB3-A970-20230D82E89B/projects.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/qelp/*.php",
+			"/Applications/MAMP/htdocs/qelp",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/less/_partials",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/js/pages",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_vendors/bootstrap-2.3.1/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/js",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/less",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/Views",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/assets/less",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/assets/includes",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/assets/js",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal.DSL/Visp.Vodafone.OrderPortal/Views",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_vendors/bootstrap-2.3.1/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src",
+			"/Users/eriknoorland/Documents/dev/git/chu-website-2014/src/assets/vendors/bootstrap-3.2.0/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/_assets/less",
+			"/Users/eriknoorland/Documents/dev/git/deesaster.com/src/assets",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/templates",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/templates",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/js",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/templates",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/templates",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/templates/partials",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less/partials",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/js",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less/partials",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less/partials",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/assets/less/partials",
+			"/Users/eriknoorland/Documents/dev/git/chunk-frontend/app/vendors/bootstrap/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/js/libs/vodafone",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/shop/vodafone-thuis/assets/js/pages",
+			"/Users/eriknoorland/Documents/dev/git/developer.eriknoorland.nl/_vendors/bootstrap-3.1.1/less",
+			"/Users/eriknoorland/Documents/dev/git/developer.eriknoorland.nl/_vendors/bootstrap-3.1.1",
+			"/Users/eriknoorland/Documents/dev/git/deesaster.com/src/assets/vendors/bootstrap-3.1.1/less",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/facebook",
+			"/Users/eriknoorland/Documents/dev/git/kahuna-frontend/src/fastforward/_assets/less/partials",
+			"/Users/eriknoorland/Documents/dev/git/chu-website-2014/src",
+			"/Users/eriknoorland/Documents/dev/git/chu-website-2014",
+			"/Users/eriknoorland/Documents/dev/svn/Visp.Vodafone.OrderPortal/Views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_FR",
+			"save",
+			"serve",
+			"640",
+			"f1-en_US-300x250-smoothie",
+			"f1-en_US-960x250-smoothie",
+			"960",
+			"250",
+			"960",
+			"f1-en_US-960x250-smoothie",
+			"test",
+			"400",
+			"550",
+			"Projects",
+			"250",
+			"300",
+			"300x250",
+			"300",
+			"300x250",
+			".iframe-inbetween-nieuwsbrief",
+			".call-vodafone",
+			"call-vodafone",
+			"span4",
+			"channel",
+			"add_resellercode",
+			"internetgroup",
+			"0 0 0 26px",
+			"/pakketsamenstellen/fiber",
+			"style",
+			"//",
+			"light",
+			"main",
+			".collapse",
+			"/600x600/",
+			"/300x200/",
+			"goo",
+			"20px",
+			"<a href=\"\">Lees verder...</a>",
+			"/000/fff",
+			".collapse",
+			".collapse768",
+			"collapse700",
+			"style",
+			"hidden-phone",
+			"retina promo-icon",
+			"createCarousel",
+			".swiper-container",
+			".swiper-slide",
+			"wrapper",
+			".promotion-circle.packages",
+			"promotion-circle",
+			"https://orderportalvf-test.glasoperator.nl/",
+			".promotion-circle",
+			"Alles uit",
+			"style=",
+			"style",
+			"internet snelheid",
+			"(leverbaar)",
+			"belcompany",
+			"53",
+			"netflix",
+			"bestel A",
+			"Bestel",
+			"Bestel A",
+			"Bestel Alles-in-1",
+			"Zapp",
+			"zapp",
+			"Gefeliciteerd",
+			"border-col",
+			"border:",
+			"#428600",
+			"reasons",
+			"TV kijken",
+			"reasons-block",
+			"img",
+			"nav-collapse",
+			"\n@import \"../../../../_vendors/bootstrap-2.3.1/less/mixins\";",
+			"nav-collapse",
+			"<!",
+			"banner-alles-in-1",
+			"box-sizing",
+			"overige landen",
+			"/images/",
+			"rl(",
+			".png);",
+			"background-size",
+			"bacground-size",
+			"\"../assets",
+			"uitzending-gemist",
+			"\"",
+			" {",
+			"glasvezel",
+			"\"../assets",
+			"#525252",
+			"cbu_20140709",
+			"filename",
+			"\"assets",
+			"fecb00",
+			"hd-",
+			"internet",
+			"max-width: 768px",
+			"\"assets/",
+			"hidden",
+			"collapse",
+			"../fonts",
+			"htmlmin",
+			"voorwaarden",
+			"https://www.vodafone.nl/support/vodafone-thuis/abonnement/tarieven-en-voorwaarden.shtml",
+			"voorwaarden",
+			"My V",
+			"voorwaarden",
+			"algemene",
+			"watch",
+			"less:src",
+			"one-mobile-l.jpg",
+			"one-mobile-m.jpg",
+			"<<",
+			"/zakelijk/midden-groot-bedrijf/vast-en-mobiel/",
+			"/zakelijk/midden-groot-bedrijf/mobiel/",
+			"zakelijk/midden",
+			"roaming",
+			".hbs",
+			"hbs",
+			"/zakelijk/midden-groot-bedrijf/mobiel/",
+			"/zakelijk/midden-groot-bedrijf/vast-en-mobiel/",
+			"é",
+			"smartband",
+			"robots.txt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_VL",
+			"fase2_300x250_rich-TVC",
+			"300",
+			"600",
+			"160",
+			"f3-en_US-160x600",
+			"f1-en_US-960x250-smoothie",
+			"250",
+			"960",
+			"600",
+			"120",
+			"160x600",
+			"728x90",
+			"span3",
+			"/pakketsamenstellen",
+			"/600x400/",
+			"/600x600/",
+			"<a href=\"\" class=\"read-more\">Lees verder...</a>",
+			"/ccc/fff",
+			"collapse768",
+			"retina",
+			"/img/",
+			"/images/icons/",
+			"rl('",
+			".png');",
+			"\"../../assets",
+			"'",
+			"{",
+			"\"../../assets",
+			"max-width: 767px",
+			"\"../assets/",
+			"../../fonts",
+			"one-business-man-l.jpg",
+			"one-business-man-m.jpg",
+			"/zakelijk/midden-groot-bedrijf/mobiele-communicatie/",
+			"/zakelijk/midden-groot-bedrijf/vast-mobiel-integratie/",
+			"h2",
+			"\"row client\"",
+			"",
+			"\"row client\"",
+			"col-md-5 col-md-height col-middle text-center",
+			"\"row row-md-height\"",
+			"<div class=\"row\">",
+			"\"row client\"",
+			"col-md-7",
+			"col-md-5",
+			"/mobiel/",
+			"View story",
+			"3.2.0",
+			"f2",
+			"",
+			"_textOpen",
+			"_initPopupClose",
+			"_initPopupOpen",
+			"",
+			"col-sm-offset-2 col-md-offset-0",
+			"col col- ",
+			"col col-",
+			"col col-xs-10",
+			"col-xs-offset-1 col-sm-offset-2",
+			"col-xs-10 col-sm-8",
+			"col-sm-offset-2",
+			"col-sm-8",
+			"/{{assets}}",
+			"",
+			"tiles",
+			")",
+			"Y(",
+			"Z(",
+			".faces",
+			"tile",
+			"htc-one-m8-gold",
+			"alphenaandenrijn",
+			"Alphen aan den Rijn",
+			"enschede",
+			"Enschede",
+			"almere",
+			"Almere",
+			"@hn-darkblue",
+			"phone-carousel phone-priceplan",
+			"&euro;",
+			"btn-toggle-red",
+			"<br />",
+			"6",
+			"4",
+			"leeuwarden",
+			"Leeuwarden",
+			"veldhoven",
+			"leeuwarden",
+			"Veldhoven",
+			"Leeuwarden",
+			"deventer",
+			"Deventer",
+			"col-sm-4",
+			"row",
+			"01-01-2014",
+			"min-width: 360px",
+			"min-width: 330px",
+			"collapse-span-600",
+			"transparent-content",
+			"rectangle-2-1",
+			" red-transparent-content ",
+			"btn-large",
+			"img",
+			"../images",
+			"btn btn-large btn-purple",
+			"btn btn-large",
+			".btn .btn-large",
+			"col-sm",
+			"col-md",
+			"+",
+			"){",
+			"767px",
+			"Re:Connect",
+			"&euro;&nbsp;",
+			"col-xs-4",
+			"col-sm-4",
+			"col-md-4",
+			"+",
+			"data-bottom"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true
+}

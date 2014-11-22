@@ -1,0 +1,1 @@
+﻿/** * @package nl.eriknoorland.parallax */package nl.eriknoorland.parallax{	public class Axis{		public static const X:String = 'x';		public static const Y:String = 'y';		public static const BOTH:String = 'both';		public static const NONE:String = 'none';	}}
